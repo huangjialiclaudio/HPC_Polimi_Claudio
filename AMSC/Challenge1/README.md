@@ -1,2 +1,0 @@
-# rSVD
-Randomized SVD
